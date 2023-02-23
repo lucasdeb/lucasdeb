@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @lucasdeb
-- 👀  I’m interested in blockchain technology/development and frontend/backend development.
-- 🌱  I’m currently learning C, Solidity, JavaScript
+- 👀  I’m interested in blockchain technology/development, AI and frontend/backend development.
+- 🌱  I’m currently learning Java, Solidity, JavaScript
 - 📫  How to reach me: lucas1702debarbieri@gmail.com
